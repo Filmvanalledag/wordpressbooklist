@@ -9,7 +9,7 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Plug-in that book information from several post on one page.
+Plug-in that displays book information from several post on one page.
 
 == Description ==
 
